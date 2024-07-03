@@ -11,5 +11,6 @@ public class MyCode {
         a = a-b;
 
         System.out.println("Value of a is: " +a + "Value of b is: " +b);
+        System.out.println("This is to reflect changes");
     }
 }
